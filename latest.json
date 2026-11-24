@@ -1,12 +1,12 @@
 {
- "version": "1.7.6",
- "notes": "上の帯を一新:自動補正・左右回転・反転・切り抜きを直接。画素数(軽くする/きれいに大きく)、元画像(Oキー)。編集は最後にまとめて保存。",
+ "version": "1.7.7",
+ "notes": "インストーラーを作り直し(見やすく、緑のメーター)。ファイル名をクリックで名前の変更。元画像ボタンを青に。モザイクに角丸。詳しい設定の欄に×。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.6.zip",
-  "sha256": "9f1132e1072ea011f282ec58a59ed1fdd0525e1cfeabb473cd088941207dbcdb"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.7.zip",
+  "sha256": "a739d586256eb204e69a7383cb4ad017e92a666a6b36ae9dd3ecef1051a4c602"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.6.zip",
-  "sha256": "9f1132e1072ea011f282ec58a59ed1fdd0525e1cfeabb473cd088941207dbcdb"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.7.zip",
+  "sha256": "a739d586256eb204e69a7383cb4ad017e92a666a6b36ae9dd3ecef1051a4c602"
  }
 }
