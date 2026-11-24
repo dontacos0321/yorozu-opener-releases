@@ -5,7 +5,7 @@
 
 ## ダウンロード
 
-**[最新版 1.7.0 をダウンロード(ZIP・約19MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_1.7.0.zip)**
+**[最新版 1.7.1 をダウンロード(ZIP・約19MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_1.7.1.zip)**
 
 ZIPを展開し、`amd64` フォルダ(ふつうのパソコン)の `YorozuOpener.exe` を起動してください。
 Surface Pro など ARM のパソコンは `arm64` フォルダのほうです。
