@@ -1,12 +1,12 @@
 {
- "version": "1.7.5",
- "notes": "インストーラー版を用意しました(スタートメニュー・デスクトップに登録、設定のアプリから削除できます)。",
+ "version": "1.7.6",
+ "notes": "上の帯を一新:自動補正・左右回転・反転・切り抜きを直接。画素数(軽くする/きれいに大きく)、元画像(Oキー)。編集は最後にまとめて保存。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.5.zip",
-  "sha256": "bbe43804c94dd96e85e8d438d4df0c351e2fd08f50e43ca6d55b1ab99f911dc9"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.6.zip",
+  "sha256": "9f1132e1072ea011f282ec58a59ed1fdd0525e1cfeabb473cd088941207dbcdb"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.5.zip",
-  "sha256": "bbe43804c94dd96e85e8d438d4df0c351e2fd08f50e43ca6d55b1ab99f911dc9"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.6.zip",
+  "sha256": "9f1132e1072ea011f282ec58a59ed1fdd0525e1cfeabb473cd088941207dbcdb"
  }
 }
