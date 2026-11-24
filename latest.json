@@ -1,12 +1,12 @@
 {
- "version": "1.7.7",
- "notes": "インストーラーを作り直し(見やすく、緑のメーター)。ファイル名をクリックで名前の変更。元画像ボタンを青に。モザイクに角丸。詳しい設定の欄に×。",
+ "version": "1.7.8",
+ "notes": "元画像を左右スライドで比較。形式変換(JPEG/PNG/WebP/PDF)。モザイクにShift・角度・矢印キー。AIは処理中に重ねて押せないように。既定アプリの✓表示を修正。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.7.zip",
-  "sha256": "a739d586256eb204e69a7383cb4ad017e92a666a6b36ae9dd3ecef1051a4c602"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.8.zip",
+  "sha256": "3878fa8705a62711344ba8b50417bdd874f62667f5ad22a7bd542aaf02c4f279"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.7.zip",
-  "sha256": "a739d586256eb204e69a7383cb4ad017e92a666a6b36ae9dd3ecef1051a4c602"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.8.zip",
+  "sha256": "3878fa8705a62711344ba8b50417bdd874f62667f5ad22a7bd542aaf02c4f279"
  }
 }
