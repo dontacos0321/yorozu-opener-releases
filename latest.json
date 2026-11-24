@@ -1,12 +1,12 @@
 {
- "version": "1.7.3",
- "notes": "上の帯に「自動補正」ボタン(ワンクリックで明るさと色かぶりを整える)。自動補正の色かぶり判定を改善。",
+ "version": "1.7.4",
+ "notes": "モザイクの枠をあとから動かす・大きさを変えるように。背景を消すで方法の切り替えと案内。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.3.zip",
-  "sha256": "ff11e048eb34e56f2ab8950e27c8714bf17f5bf9843922ff71cd27653f0c273b"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.4.zip",
+  "sha256": "41af2e3cd909a168dff27b3bc15376372fd40c1ecfa18bd4849636a8d11fee01"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.3.zip",
-  "sha256": "ff11e048eb34e56f2ab8950e27c8714bf17f5bf9843922ff71cd27653f0c273b"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.4.zip",
+  "sha256": "41af2e3cd909a168dff27b3bc15376372fd40c1ecfa18bd4849636a8d11fee01"
  }
 }
