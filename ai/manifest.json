@@ -1,0 +1,75 @@
+{
+ "version": 1,
+ "files": [
+  {
+   "name": "bg_isnet.onnx",
+   "size": 46732125,
+   "sha256": "73c6a0e7d4a084df07c71f09ad278b657a2f5cf2c28246abded8dcc7e6d68c16",
+   "parts": [
+    "bg_isnet.onnx.001"
+   ]
+  },
+  {
+   "name": "inpaint_lama.onnx",
+   "size": 108894553,
+   "sha256": "af634145ffcac01f6e779a3768ab6aa42f411ff2fa1c001d80342d98a3bb84e5",
+   "parts": [
+    "inpaint_lama.onnx.001",
+    "inpaint_lama.onnx.002",
+    "inpaint_lama.onnx.003"
+   ]
+  },
+  {
+   "name": "ort-wasm-simd-threaded.asyncify.mjs",
+   "size": 51913,
+   "sha256": "249b4dc791f081d33bd11760bfd669fe85f97289e679bbeb291b874272125dff",
+   "parts": [
+    "ort-wasm-simd-threaded.asyncify.mjs.001"
+   ]
+  },
+  {
+   "name": "ort-wasm-simd-threaded.asyncify.wasm",
+   "size": 25499390,
+   "sha256": "babec0bbddb6d3082623b99b7e1391b75e0729bcca076ff8424d7753af97fada",
+   "parts": [
+    "ort-wasm-simd-threaded.asyncify.wasm.001"
+   ]
+  },
+  {
+   "name": "ort.webgpu.min.mjs",
+   "size": 66261,
+   "sha256": "8ae8f1340dd86f8aaa5acc0fd5ec2f42ae874ffd7c9cd804281b73fd177c9864",
+   "parts": [
+    "ort.webgpu.min.mjs.001"
+   ]
+  },
+  {
+   "name": "sr_x4.onnx",
+   "size": 4859693,
+   "sha256": "7d69a12f9a14036b4c9c38b4358f7c505aa2f2a625114071507624647f682971",
+   "parts": [
+    "sr_x4.onnx.001"
+   ]
+  }
+ ],
+ "features": {
+  "bg": [
+   "ort.webgpu.min.mjs",
+   "ort-wasm-simd-threaded.asyncify.mjs",
+   "ort-wasm-simd-threaded.asyncify.wasm",
+   "bg_isnet.onnx"
+  ],
+  "erase": [
+   "ort.webgpu.min.mjs",
+   "ort-wasm-simd-threaded.asyncify.mjs",
+   "ort-wasm-simd-threaded.asyncify.wasm",
+   "inpaint_lama.onnx"
+  ],
+  "up": [
+   "ort.webgpu.min.mjs",
+   "ort-wasm-simd-threaded.asyncify.mjs",
+   "ort-wasm-simd-threaded.asyncify.wasm",
+   "sr_x4.onnx"
+  ]
+ }
+}
