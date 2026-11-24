@@ -1,12 +1,12 @@
 {
- "version": "1.7.2",
- "notes": "画像の上の帯から編集ツールを直接選べるように。AIが止まったときの自動復帰と「やめる」ボタン。",
+ "version": "1.7.3",
+ "notes": "上の帯に「自動補正」ボタン(ワンクリックで明るさと色かぶりを整える)。自動補正の色かぶり判定を改善。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.2.zip",
-  "sha256": "d24391375b09307fa2ad797534c260a914853cd771c4d5cae74ec1c7e1d0b3dc"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.3.zip",
+  "sha256": "ff11e048eb34e56f2ab8950e27c8714bf17f5bf9843922ff71cd27653f0c273b"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.2.zip",
-  "sha256": "d24391375b09307fa2ad797534c260a914853cd771c4d5cae74ec1c7e1d0b3dc"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.3.zip",
+  "sha256": "ff11e048eb34e56f2ab8950e27c8714bf17f5bf9843922ff71cd27653f0c273b"
  }
 }
