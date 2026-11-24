@@ -1,0 +1,12 @@
+{
+ "version": "1.7.0",
+ "notes": "画像編集にAIを追加(消しゴムマジック・背景を消す・拡大)。ファイルの種類ごとのアイコン。",
+ "amd64": {
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.0.zip",
+  "sha256": "3ea4817d287daa62dba122d8981b3e45dd1d6a1c0ec93d9c5869e18ad5dfb522"
+ },
+ "arm64": {
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.0.zip",
+  "sha256": "3ea4817d287daa62dba122d8981b3e45dd1d6a1c0ec93d9c5869e18ad5dfb522"
+ }
+}
