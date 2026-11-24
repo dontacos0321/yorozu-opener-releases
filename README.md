@@ -5,10 +5,14 @@
 
 ## ダウンロード
 
-**[最新版 1.7.4 をダウンロード(ZIP・約19MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_1.7.4.zip)**
+**[インストーラー版 1.7.5(おすすめ・約14MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_Setup_1.7.5.exe)**
+ダウンロードして実行し、「次へ」で進めるだけです。管理者の権限は要りません。
+スタートメニューとデスクトップに登録され、Windows の「設定 → アプリ」から削除できます。
 
-ZIPを展開し、`amd64` フォルダ(ふつうのパソコン)の `YorozuOpener.exe` を起動してください。
-Surface Pro など ARM のパソコンは `arm64` フォルダのほうです。
+[ZIP版 1.7.5(インストールしたくない方向け・約19MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_1.7.5.zip)
+展開して、`amd64` フォルダ(ふつうのパソコン)の `YorozuOpener.exe` を起動してください。ARM のパソコンは `arm64` のほうです。
+
+初回は Windows の青い画面(「PC が保護されました」)が出ることがあります。「詳細情報」→「実行」で進めてください。
 
 ## この置き場について
 - アプリ内の「アップデートがあります」の確認(`latest.json`)と、画像編集のAI部品(`ai/`)のダウンロードは、ここから行われます

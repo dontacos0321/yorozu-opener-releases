@@ -1,12 +1,12 @@
 {
- "version": "1.7.4",
- "notes": "モザイクの枠をあとから動かす・大きさを変えるように。背景を消すで方法の切り替えと案内。",
+ "version": "1.7.5",
+ "notes": "インストーラー版を用意しました(スタートメニュー・デスクトップに登録、設定のアプリから削除できます)。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.4.zip",
-  "sha256": "41af2e3cd909a168dff27b3bc15376372fd40c1ecfa18bd4849636a8d11fee01"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.5.zip",
+  "sha256": "bbe43804c94dd96e85e8d438d4df0c351e2fd08f50e43ca6d55b1ab99f911dc9"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.4.zip",
-  "sha256": "41af2e3cd909a168dff27b3bc15376372fd40c1ecfa18bd4849636a8d11fee01"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.5.zip",
+  "sha256": "bbe43804c94dd96e85e8d438d4df0c351e2fd08f50e43ca6d55b1ab99f911dc9"
  }
 }
