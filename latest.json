@@ -1,12 +1,12 @@
 {
- "version": "1.7.1",
- "notes": "消しゴムマジックの仕上がりと演出を改善(離れた場所は1か所ずつ処理、切り替えをゆっくり)",
+ "version": "1.7.2",
+ "notes": "画像の上の帯から編集ツールを直接選べるように。AIが止まったときの自動復帰と「やめる」ボタン。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.1.zip",
-  "sha256": "8dc50c2f0df8a8084fbb6af89de9904b649ae44cb59852ae1c06b04b589ece37"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.2.zip",
+  "sha256": "d24391375b09307fa2ad797534c260a914853cd771c4d5cae74ec1c7e1d0b3dc"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.1.zip",
-  "sha256": "8dc50c2f0df8a8084fbb6af89de9904b649ae44cb59852ae1c06b04b589ece37"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.2.zip",
+  "sha256": "d24391375b09307fa2ad797534c260a914853cd771c4d5cae74ec1c7e1d0b3dc"
  }
 }
