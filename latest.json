@@ -1,12 +1,12 @@
 {
- "version": "1.7.8",
- "notes": "元画像を左右スライドで比較。形式変換(JPEG/PNG/WebP/PDF)。モザイクにShift・角度・矢印キー。AIは処理中に重ねて押せないように。既定アプリの✓表示を修正。",
+ "version": "1.7.9",
+ "notes": "ページの回転を続けて押せるように。テキストを置いたら選択に戻るように。複数選択の表示を「または」に。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.8.zip",
-  "sha256": "3878fa8705a62711344ba8b50417bdd874f62667f5ad22a7bd542aaf02c4f279"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.9.zip",
+  "sha256": "ef4cfe703df496d319f46013bb0fdf51d71ac1e245e7d206a77687cb4fc9bc36"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.8.zip",
-  "sha256": "3878fa8705a62711344ba8b50417bdd874f62667f5ad22a7bd542aaf02c4f279"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.9.zip",
+  "sha256": "ef4cfe703df496d319f46013bb0fdf51d71ac1e245e7d206a77687cb4fc9bc36"
  }
 }
