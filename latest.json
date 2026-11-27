@@ -1,12 +1,12 @@
 {
- "version": "1.7.10",
- "notes": "PDFの印刷が動かなかった不具合を修正。一部のパソコンでPDFが開けない不具合を修正。画像も印刷できるように。保存の横に「形式を変えて保存」。",
+ "version": "1.7.11",
+ "notes": "回転・反転・自動補正を押しても右の欄が出ず、ボタンも動かないように。切り抜きの枠は辺のどこでもつかめるように。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.10.zip",
-  "sha256": "c65f5ace69611d180a603e55763b922e82ff2d4392bcf14dc8b14ef0cd18a78f"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.11.zip",
+  "sha256": "4f31c017b2c4a5c1380e73eedac4648b085c2f21e8c56a23ec2690dd67b59f2a"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.10.zip",
-  "sha256": "c65f5ace69611d180a603e55763b922e82ff2d4392bcf14dc8b14ef0cd18a78f"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.11.zip",
+  "sha256": "4f31c017b2c4a5c1380e73eedac4648b085c2f21e8c56a23ec2690dd67b59f2a"
  }
 }
