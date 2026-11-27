@@ -1,12 +1,12 @@
 {
- "version": "1.7.9",
- "notes": "ページの回転を続けて押せるように。テキストを置いたら選択に戻るように。複数選択の表示を「または」に。",
+ "version": "1.7.10",
+ "notes": "PDFの印刷が動かなかった不具合を修正。一部のパソコンでPDFが開けない不具合を修正。画像も印刷できるように。保存の横に「形式を変えて保存」。",
  "amd64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.9.zip",
-  "sha256": "ef4cfe703df496d319f46013bb0fdf51d71ac1e245e7d206a77687cb4fc9bc36"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.10.zip",
+  "sha256": "c65f5ace69611d180a603e55763b922e82ff2d4392bcf14dc8b14ef0cd18a78f"
  },
  "arm64": {
-  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.9.zip",
-  "sha256": "ef4cfe703df496d319f46013bb0fdf51d71ac1e245e7d206a77687cb4fc9bc36"
+  "url": "https://raw.githubusercontent.com/dontacos0321/yorozu-opener-releases/main/app/YorozuOpener_1.7.10.zip",
+  "sha256": "c65f5ace69611d180a603e55763b922e82ff2d4392bcf14dc8b14ef0cd18a78f"
  }
 }

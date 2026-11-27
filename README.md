@@ -5,11 +5,11 @@
 
 ## ダウンロード
 
-**[インストーラー版 1.7.9(おすすめ・約12MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_Setup_1.7.9.exe)**
+**[インストーラー版 1.7.10(おすすめ・約12MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_Setup_1.7.10.exe)**
 ダウンロードして実行し、「次へ」で進めるだけです。管理者の権限は要りません。
 スタートメニューとデスクトップに登録され、Windows の「設定 → アプリ」から削除できます。
 
-[ZIP版 1.7.9(インストールしたくない方向け・約19MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_1.7.9.zip)
+[ZIP版 1.7.10(インストールしたくない方向け・約19MB)](https://github.com/dontacos0321/yorozu-opener-releases/raw/main/app/YorozuOpener_1.7.10.zip)
 展開して、`amd64` フォルダ(ふつうのパソコン)の `YorozuOpener.exe` を起動してください。ARM のパソコンは `arm64` のほうです。
 
 初回は Windows の青い画面(「PC が保護されました」)が出ることがあります。「詳細情報」→「実行」で進めてください。
